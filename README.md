@@ -97,7 +97,7 @@ The dataset contains **20,765 entries and 22 features**, including:
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Run the  **Python script**:
+3. Run the code in **Python script**:
    
 
 ---
