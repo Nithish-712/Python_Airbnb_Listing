@@ -97,10 +97,8 @@ The dataset contains **20,765 entries and 22 features**, including:
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Run the **Jupyter notebook** or **Python script**:
-   ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
-   ```
+3. Run the  **Python script**:
+   
 
 ---
 
@@ -127,5 +125,7 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ---
 
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
+## Contact
+For any queries, feel free to reach out at:  
+- **GitHub**: [Your GitHub](https://github.com/your-repo) 
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/thalla-nithish-ab436a309) 
