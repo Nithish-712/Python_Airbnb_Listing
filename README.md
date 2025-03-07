@@ -127,5 +127,5 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ## Contact
 For any queries, feel free to reach out at:  
-- **GitHub**: [Your GitHub](https://github.com/Nithish-712/Python_Airbnb_Listing.git) 
+- **GitHub**: [Your GitHub](https://github.com/Nithish-712?tab=repositories) 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/thalla-nithish-ab436a309/) 
