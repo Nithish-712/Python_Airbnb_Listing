@@ -91,7 +91,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   gh repo clone Nithish-712/Python_Airbnb_Listing
+   https://github.com/Nithish-712/Python_Airbnb_Listing.git
    ```
 2. Install the required libraries:
    ```bash
