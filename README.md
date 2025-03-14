@@ -3,7 +3,7 @@
 ---
 
 ## Project Overview
-The project is structured to provide a comprehensive analysis using popular Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly. The repository includes Jupyter Notebooks, datasets, and visualizations that walk through the entire EDA process, from data cleaning to insightful visualizations.
+The project is structured to provide a comprehensive analysis using popular Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly. The repository includes datasets, and visualizations that walk through the entire EDA process, from data cleaning to insightful visualizations.
 
 ![Airbnb_logo](https://github.com/Nithish-712/Python_Airbnb_Listing/blob/main/Airbnb-NYC-law.jpg)
 
